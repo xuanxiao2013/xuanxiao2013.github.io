@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "javascript-inherit"
-date:   2016-01-02 16:14:01 +0800
+date:   2016-01-12 16:14:01 +0800
 categories: javascript
 ---
 

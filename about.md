@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-hello world!
+github: [xuanxiao2013](https://github.com/xuanxiao2013)
+
+weibo: [weibo](http://weibo.com/u/1680805233)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "redux-awesome"
-date:   2016-01-07 13:14:01 +0800
+date:   2016-01-12 13:14:01 +0800
 categories: javascript redux
 ---
 
