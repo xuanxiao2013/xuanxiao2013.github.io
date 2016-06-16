@@ -1,2 +1,10 @@
 
-天行健君子以自强不息，地势坤君子以厚德载物
+# xuanxiao2013 blog
+
+## 开发
+
+``` bash
+
+    jekyll server
+    
+```

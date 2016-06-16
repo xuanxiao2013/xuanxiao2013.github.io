@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "redux-awesome"
+title:  "redux 资料合集"
 date:   2016-01-12 13:14:01 +0800
 categories: javascript redux
 ---

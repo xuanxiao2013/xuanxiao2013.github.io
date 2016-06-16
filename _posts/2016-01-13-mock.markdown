@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "前端mock"
+date:   2016-01-12 18:14:01 +0800
+categories: javascript
+---
+
+[beta.json](http://beta.json-generator.com/N1_qjn6ve)

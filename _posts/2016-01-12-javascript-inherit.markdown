@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "javascript-inherit"
+title:  "javascript 继承"
 date:   2016-01-12 16:14:01 +0800
 categories: javascript
 ---
